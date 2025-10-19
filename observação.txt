@@ -1,0 +1,1 @@
+utilizei a ia para refinar e corrigir alguns erros, eu propus a ideia e ela corrigia, utilizei o IDEA para instalar o drive: file> project structure > libraries > + from maven > mysql-connector-java:8.0.33 > apply
